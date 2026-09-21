@@ -1,5 +1,38 @@
 # 凡人修仙传·宋玉桌宠
 
+<h2 align="center">动作展示</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="assets/idle.png" width="220" alt="宋玉桌宠待机动作"><br>
+      <b>待机</b>
+    </td>
+    <td align="center">
+      <img src="assets/wave.png" width="220" alt="宋玉桌宠挥手动作"><br>
+      <b>挥手</b>
+    </td>
+    <td align="center">
+      <img src="assets/meditate.png" width="220" alt="宋玉桌宠打坐动作"><br>
+      <b>打坐修炼</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/tea.png" width="220" alt="宋玉桌宠喝茶动作"><br>
+      <b>喝茶</b>
+    </td>
+    <td align="center">
+      <img src="assets/sleep.png" width="220" alt="宋玉桌宠睡眠动作"><br>
+      <b>休息</b>
+    </td>
+    <td align="center">
+      <img src="assets/edge_right.png" width="220" alt="宋玉桌宠桌面边缘动作"><br>
+      <b>桌面边缘</b>
+    </td>
+  </tr>
+</table>
+
 一个以《凡人修仙传》角色宋玉为主题制作的非官方 Windows 桌面宠物。
 
 宋玉桌宠使用 C# 和 WPF 开发，支持逐帧动作、待机眨眼、挥手、喝茶、打坐、睡眠、随机活动、桌面边缘互动、自定义对白以及闲置渐隐。
